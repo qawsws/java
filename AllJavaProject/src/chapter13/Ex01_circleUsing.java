@@ -1,6 +1,4 @@
 package chapter13;
-import com.company.area.Circle;
-
 import java.sql.*;
 
 public class Ex01_circleUsing {
