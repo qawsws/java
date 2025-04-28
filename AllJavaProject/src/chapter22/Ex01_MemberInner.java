@@ -10,7 +10,7 @@ class Outer1{
 		public void move() {
 			System.out.printf("인간형 유닛이 %d속도로 이동합니다.\n", speed);
 		}
-	}
+	}//
 	public void getMarine() {
 //		내부 클래스를 사용하기 위한 선언 부분
 		MemberInner1 inner = new MemberInner1();

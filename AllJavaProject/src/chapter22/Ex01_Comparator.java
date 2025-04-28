@@ -12,7 +12,7 @@ class Student{
 		this.studentNo =studentNo;
 		this.name = name;
 		this.dept = dept;
-	}
+	}//
 }
 
 class StudentList{

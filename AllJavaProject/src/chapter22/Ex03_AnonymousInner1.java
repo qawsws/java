@@ -16,7 +16,7 @@ class HumanCamp3{
 //			public void move() {
 //				System.out.println("인간형 유닛이 "+speed+" 속도로 이동합니다.");
 //			}
-//		}
+//		}/
 //		return new Marine3();
 		
 //		익명 내부 클래스 선언 방식

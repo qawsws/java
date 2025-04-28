@@ -31,7 +31,7 @@ public class p1 {
 
 }
 }
-
+//djfuqel
 
 //package practice2;
 //
